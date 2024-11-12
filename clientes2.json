@@ -1,0 +1,14 @@
+{
+    "data":[
+       {
+          "nome":"Cadastro 1",
+          "email":"cadastro1@mail.com",
+          "telefone":"(51) 99999-0001"
+       },
+       {
+          "nome":"Cadastro 2",
+          "email":"cadastro2@mail.com",
+          "telefone":"(51) 99999-0002"
+       }
+    ]
+ }
